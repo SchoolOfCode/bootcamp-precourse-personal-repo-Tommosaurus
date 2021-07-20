@@ -1,1 +1,81 @@
 
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: white;
+  colour: white;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  
+}
+
+#img-caption{
+    margin:15px;
+    font-family:Times New Roman;
+    font-size:15px;
+    color: black;
+   text-align: center;
+}
+
+#title{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial;
+  color: #3391EA;
+  font-size: 50px;
+  text-align: center;  
+  
+}
+
+.centre {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  heigh: auto;
+  box-shadow: 5px 10px 8px #a3a375;
+  padding: 1%;
+}
+
+
+#caption{
+ 
+  font-family: Arial;
+  color: #3391EA;
+  font-size: 20px;
+  text-align: center;
+}
+
+#headline{
+  font-family: Arial;
+  color: #3391EA;
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+#tribute-info{
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #b9b8b8;
+   
+}
