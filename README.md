@@ -1,9 +1,5 @@
-# Precourse Personal Repo
+# Candide Thovex Tribute Page
 
-Codepen is a great way to get started coding in the browser, but we'd like you to take it to the next level and get used to working with Git and in Github repositories. Now that you have used GitHub Classroom to clone down this repo, have a try at the following:
+I chose this subject as Candide is my favourite skier and he has been pushing the boundaries of what is possible for almost 20 years. His return from a devastating injury is also really inspiring. His videos are some of the most entertaining ski films available and they are always guaranteed to make me feel excited about getting back to the mountains. 
 
-- Take your code from the Codepen and insert it into the HTML and CSS files within the repository.
-- Use your new Markdown skills to write a README for the repository. In it, you can talk about why you chose the subject you chose for your tribute page as well as what you learned making it and any reflections on the development journey. You are welcome to write in this README file and delete these instructions before pushing up.
-- Add, commit, and push your changes to that repository using your new Git skills on the command line in the VS Code terminal.
-- You can then go in and make the repository public in the settings if you'd like so that it shows up on your GitHub profile for the world to see.
-- This way, you'll embed your skills and have your first project in your portfolio, and we'll be able to check out your code and be able to give you feedback as well.
+I learned a lot during this process though I definitely need a _lot_ more practice! The myriad of different elemts, styles and variables all still feel like a maze and I was definitely googling a lot to help me out. I'm very much a 'learn by doing' person though and I'm sure this will become second nature in no time :) I didn't use any JS for my tribute page but having watched the video and played with some of the initial activities I'm picking it up quickly. While the syntax is slightly different the concepts of OOP, variables, functions etc is the same as the Python I was learning for the past few months. 
